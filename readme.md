@@ -1,5 +1,8 @@
 # Real-time YouTube Comment Sentiment Analysis
 
+> Built and maintained by **Goutham sai Goparaju** — gouthamsaigoparaju@gmail.com
+> GitHub: https://github.com/Goutham011 | Docker Hub: https://hub.docker.com/r/goutham16/ytcomments
+
 This project performs real-time sentiment analysis on YouTube comments using Kafka, Spark, Docker, and Streamlit. It processes YouTube comments to determine the sentiment (positive, neutral, or negative) and visualizes the results in a web interface.
 
 ## Table of Contents
@@ -22,7 +25,7 @@ Before you begin, ensure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/C0HEr/YTComments.git
+   git clone https://github.com/Goutham011/YTComments.git
    cd YTComments
 
 2. **Pull the Docker Hub image::**
@@ -86,3 +89,10 @@ Before you begin, ensure you have the following installed:
     docker build -t goutham16/ytcomments .
     docker push goutham16/ytcomments
     ```
+
+## Author
+
+**Goutham sai Goparaju**
+* Email: gouthamsaigoparaju@gmail.com
+* GitHub: https://github.com/Goutham011
+* Docker Hub: goutham16
